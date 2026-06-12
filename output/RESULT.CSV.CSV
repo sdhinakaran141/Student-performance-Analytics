@@ -1,0 +1,11 @@
+id,name,age,department,tamil,english,maths,science,total,average,grade
+1,Dhina,19,Science,85,90,95,88,358,89.5,
+2,Tamil,20,Arts,78,82,88,90,338,84.5,
+3,Ravi,21,Science,92,88,76,85,341,85.25,
+4,Priya,19,Commerce,88,95,92,98,373,93.25,
+5,Kumar,22,Arts,72,68,85,78,303,75.75,
+6,Sneha,20,Science,95,92,98,96,381,95.25,
+7,Arun,21,Commerce,65,70,72,68,275,68.75,
+8,Kavya,19,Science,88,85,90,92,355,88.75,
+9,Raja,20,Arts,75,78,80,75,308,77.0,
+10,Meena,21,Commerce,90,92,88,94,364,91.0,
