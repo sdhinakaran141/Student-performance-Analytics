@@ -1,9 +1,0 @@
-requirements.txt
-
-Pandas
-NumPy
-Matplotlib
-Openpyxl
-
-
-
